@@ -1,2 +1,2 @@
-# goitneo-python-hw-1-mcs5
+# goitneo-python-hw-2-mcs5
 GoIT_Python_hw
